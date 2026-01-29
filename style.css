@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: rgb(0 219 55);
+  background-color: rgb(14 14 19);
+  font-family: Arial, sans-serif;
+}
+.topside {
+  display: flex;
+  background-color: rgb(5 5 10);
+  justify-content: space-between;
+  align-items: center;
+}
+.topside .right-top {
+  display: flex;
+  align-items: center;
+  background-color: rgb(10 30 20);
+  border-radius: 20px;
+  margin-right: 2%;
+  padding: 0 10px;
+}
